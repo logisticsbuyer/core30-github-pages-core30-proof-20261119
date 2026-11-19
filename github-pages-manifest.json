@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "v1",
+  "packageType": "github_pages_static_site",
+  "entryFile": "index.html",
+  "buildCommand": null,
+  "startCommand": "python3 -m http.server 8080",
+  "pages": [
+    {
+      "slug": "contact",
+      "title": "Contact | Harbor Roofing",
+      "routePath": "/contact/",
+      "entryFile": "contact/index.html"
+    },
+    {
+      "slug": "roof-repair-portland",
+      "title": "Roof Repair | Harbor Roofing",
+      "routePath": "/roof-repair-portland/",
+      "entryFile": "roof-repair-portland/index.html"
+    }
+  ],
+  "assets": [
+    {
+      "mediaId": "hero",
+      "assetId": 501,
+      "filename": "roof-repair-portland-image-01-hero.png",
+      "mime": "image/png",
+      "alt": "Roofer inspecting shingles",
+      "title": "",
+      "caption": "",
+      "position": "hero",
+      "path": "assets/roof-repair-portland-image-01-hero.png"
+    }
+  ]
+}
